@@ -1,4 +1,4 @@
-#include "YeraTimer.h"
+#include <YeraTimer.h>
 
 // implementation of methods
 Timer::Timer(byte period) {
